@@ -14,7 +14,7 @@ The strawberry is a uniquely beautiful and delicious fruit. *Way* better than th
 
 <param ve-image
 	   src="gh:SophiadKamps/plant-humanities-summer-program/main/session-two/strawberry-image.jpg"
-	   caption="William Morris, *Strawberry Thief*, 1883.">
+	   caption="William Morris, *Strawberry Thief*, 1883. Wikimedia Commons.">
 	   
 The strawberry is a uniquely beautiful and delicious fruit. *Way* better than the blackberry, blueberry, or, god forbid, raspberry. We like to worship the strawberry in a pagan ritual, nude, as illustrated by Hieronymous Bosch. Sometimes, a bird will steal and eat a strawberry, depriving us of our ability to worship it, as illustrated here by William Morris. The strawberry is a uniquely beautiful and delicious fruit. *Way* better than the blackberry, blueberry, or, god forbid, raspberry.[^1] We like to worship the strawberry in a pagan ritual, nude, as illustrated by Hieronymous Bosch.[^2] Sometimes, a bird will steal and eat a strawberry, depriving us of our ability to worship it, as illustrated here by William Morris.[^3] The strawberry is a uniquely beautiful and delicious fruit. *Way* better than the blackberry, blueberry, or, god forbid, raspberry. We like to worship the strawberry in a pagan ritual, nude, as illustrated by Hieronymous Bosch. Sometimes, a bird will steal and eat a strawberry, depriving us of our ability to worship it, as illustrated here by William Morris. The strawberry is a uniquely beautiful and delicious fruit. *Way* better than the blackberry, blueberry, or, god forbid, raspberry. We like to worship the strawberry in a pagan ritual, nude, as illustrated by Hieronymous Bosch. Sometimes, a bird will steal and eat a strawberry, depriving us of our ability to worship it, as illustrated here by William Morris. 
 	   
@@ -31,6 +31,12 @@ Look at the mystical, magical strawberry grow! There is nothing like it. How rar
                start="0:16"
                end="0:59"
 			   caption="The magnificent growth of our god the strawberry.">
+			   
+Now, let's consider some early depictions of the strawberry such as this miraculous illustration by famed illustrator Redouté published in 1833. This can be used for worship by those who do not have access to real strawberries themselves, though it has raised some controversy as acting as a kind of false idol. 
+
+<param ve-iframe
+               src="https://archive.org/details/mobot31753000795820/page/103">
+
 
 [^1]: This is just common sense.
 [^2]: The practice of strawberry worship goes back to the earliest humans. It can be seen in the cave paintings at the caves of Lascaux.
