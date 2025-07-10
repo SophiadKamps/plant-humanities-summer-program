@@ -44,7 +44,9 @@ This is a paragraph to accompany the timeline. We are showing examples of the st
 			   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSXAZZfaykq1zZal_CYLdc-LObLj3jkiOcz59Cl-0PRln3EQn7HL0rXKXaMe9WCSc-dnK0MRgWKSG4N&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
 
 
-Mapmaking session. Here is a simple map of Dumbarton Oaks 
+###Mapmaking session. 
+
+Here is a simple map of Dumbarton Oaks 
 
 <param ve-map
 			   center="38.91399438275346,-77.06225022661646"
@@ -57,8 +59,20 @@ Here is a more complicated map. In this case, the center is a QID or ID given to
 			   center="Q1264942"
 			   zoom="17"
 			   caption="This is the location of Dumbarton Oaks in Washington, D.C.">
-			   
-			   
+
+Here is a map of somewhere significant to me. I identified the coordinates and zoom level from openstreetmap.org.
+
+<param ve-map
+			   center="45.348,-62.743"
+			   zoom="7"
+			   caption="This is a map of Nova Scotia. Sophia's family lives in Nova Scotia.">
+			
+Here is a fancy map made using geojson. This one has highlights, arrows, and images.
+
+<param ve-map prefer-geojson
+			   center="27.3,14.7"
+			   zoom="0.87"
+			   caption="This is a map of native strawberry distribution."
 
 [^1]: This is just common sense.
 [^2]: The practice of strawberry worship goes back to the earliest humans. It can be seen in the cave paintings at the caves of Lascaux.
