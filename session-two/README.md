@@ -70,8 +70,8 @@ Here is a map of somewhere significant to me. I identified the coordinates and z
 Here is a fancy map made using geojson. This one has highlights, arrows, and images.
 
 <param ve-map prefer-geojson
-			   center="27.3,14.7"
-			   zoom="1"
+			   center="32.7,9.8"
+			   zoom=".95"
 			   caption="This is a map of native strawberry distribution.">
 
 [^1]: This is just common sense.
