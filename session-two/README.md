@@ -71,8 +71,8 @@ Here is a fancy map made using geojson. This one has highlights, arrows, and ima
 
 <param ve-map prefer-geojson
 			   center="27.3,14.7"
-			   zoom="0.87"
-			   caption="This is a map of native strawberry distribution."
+			   zoom="1"
+			   caption="This is a map of native strawberry distribution.">
 
 [^1]: This is just common sense.
 [^2]: The practice of strawberry worship goes back to the earliest humans. It can be seen in the cave paintings at the caves of Lascaux.
