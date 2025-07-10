@@ -43,12 +43,22 @@ This is a paragraph to accompany the timeline. We are showing examples of the st
 <param ve-iframe
 			   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSXAZZfaykq1zZal_CYLdc-LObLj3jkiOcz59Cl-0PRln3EQn7HL0rXKXaMe9WCSc-dnK0MRgWKSG4N&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
 
-Here is a map that I made using the following code:
+
+Mapmaking session. Here is a simple map of Dumbarton Oaks 
 
 <param ve-map
-			   center="coordinates"
-			   zoom="zoom"
-			   caption="caption"
+			   center="38.91399438275346,-77.06225022661646"
+			   zoom="16"
+			   caption="This is the location of Dumbarton Oaks in Washington, D.C.">
+
+Here is a more complicated map. In this case, the center is a QID or ID given to each object in wikidata.
+
+<param ve-map
+			   center="Q1264942"
+			   zoom="17"
+			   caption="This is the location of Dumbarton Oaks in Washington, D.C."
+			   
+			   
 
 [^1]: This is just common sense.
 [^2]: The practice of strawberry worship goes back to the earliest humans. It can be seen in the cave paintings at the caves of Lascaux.
