@@ -36,7 +36,19 @@ Now, let's consider some early depictions of the strawberry such as this miracul
 
 <param ve-iframe
                src="https://archive.org/details/mobot31753000795820/page/103">
+			   
+			   
+This is a paragraph to accompany the timeline. We are showing examples of the strawberry in culture. Bla bla bla. 
 
+<param ve-iframe
+			   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSXAZZfaykq1zZal_CYLdc-LObLj3jkiOcz59Cl-0PRln3EQn7HL0rXKXaMe9WCSc-dnK0MRgWKSG4N&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
+
+Here is a map that I made using the following code:
+
+<param ve-map
+			   center="coordinates"
+			   zoom="zoom"
+			   caption="caption"
 
 [^1]: This is just common sense.
 [^2]: The practice of strawberry worship goes back to the earliest humans. It can be seen in the cave paintings at the caves of Lascaux.
