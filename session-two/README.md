@@ -71,7 +71,7 @@ Here is a fancy map made using geojson. This one has highlights, arrows, and ima
 
 <param ve-map prefer-geojson
 			   center="32.7,9.8"
-			   zoom=".95"
+			   zoom="1"
 			   caption="This is a map of native strawberry distribution.">
 
 [^1]: This is just common sense.
