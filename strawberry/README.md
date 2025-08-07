@@ -3,6 +3,7 @@ The plump, red, sweet strawberry is filled with symbolic contradictions. Seeming
 	   src="gh:SophiadKamps/plant-humanities-summer-program/main/strawberry/Master_of_the_First_Prayerbook_of_Maximillian_-_Hours_of_Queen_Isabella_the_Catholic,_Queen_of_Spain-_Fol._102v_-_1963.256.102.b_-_Cleveland_Museum_of_Art.jpg"
 	   caption="Master of the First Prayerbook of Maximillian, *Hours of Queen Isabella the Catholic, Queen of Spain: Fol. 102v*, c. 1500, Cleveland Museum of Art">
 <param ve-image
-	   src="gh:SophiadKamps/plant-humanities-summer-program/main/strawberry/Morgan m278.110r.jpg"
-	   caption="Book of Hours, 1480-1490, Flemish, Morgan Library M.278, fol. 110r.">
-	   
+	   src="gh:SophiadKamps/plant-humanities-summer-program/main/strawberry/NYPL MS. MA 156 fol. 35r.jpeg"
+	   caption="Book of Hours, 1400-1499, French, NYPL MA 156.">
+The answer to this question comes in depictions of two Biblical gardens. The wild European Fragaria vesca often appears in depictions of the garden of Eden before the fall of Adam and Eve. Strawberries are below the feet of Adam and Eve in Giovanni di Paolo’s The Creation of the World and the Expulsion from Paradise (1445) though in this case without their customary white flowers. Along with the lilies and roses, the fruit is intended to represent the perfect righteousness of Christ’s followers as well as the fruitful results of their worship. 	   
+																										  
